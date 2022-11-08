@@ -1,0 +1,6 @@
+[submodule "assignment-1"]
+	path = assignment-1
+	url = https://github.com/elisor1219/TDA352-assignment-1
+[submodule "off-chain-payment-channel"]
+	path = off-chain-payment-channel
+	url = https://github.com/elisor1219/off-chain-payment-channel
