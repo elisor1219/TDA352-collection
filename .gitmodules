@@ -4,3 +4,9 @@
 [submodule "off-chain-payment-channel"]
 	path = off-chain-payment-channel
 	url = https://github.com/elisor1219/off-chain-payment-channel
+[submodule "assignment-2"]
+	path = assignment-2
+	url = git@github.com:elisor1219/TDA352-assignment-2.git
+[submodule "assignment-3"]
+	path = assignment-3
+	url = git@github.com:elisor1219/TDA352-assignment-3.git
